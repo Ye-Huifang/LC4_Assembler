@@ -1,0 +1,9 @@
+DIV R4, R7, R2
+ADD R1, R2, R1
+MUL R2, R1, R1
+AND R5, R2, R6
+OR R1, R3, R2
+SUB R3, R2, R1
+XOR R2, R3, R3
+      
+         
